@@ -21,19 +21,20 @@ namespace IterationStatements
             int num = 0;
 
             // Create a do-while loop and use the template below:
+            
             do
             {
                 num++;
                 numbers.Add(num);
             } while (num < 100);
-            {
+            
                 // Increment num by 1
 
                 // Then add num to the collection - numbers
                 // Hint: reference num inside of the Add method's parentheses
-                numbers.Add(num);
+                //numbers.Add(num);
 
-            } // <---- While your variable is less than 100
+             // <---- While your variable is less than 100
 
             while (num < 200)
             {
@@ -44,26 +45,27 @@ namespace IterationStatements
 
             // Create a while loop
             // <--- While num is less than 200
-            {
+            
                 // Increment num by 1
                 // Then add num to the collection numbers
                 //HINT: copy how this was done in the do while loop
 
-            }
+            
 
 
             // This is to show the user that the numbers will start increasing on the console
             Console.WriteLine("Increase:");
 
+            foreach (int item in numbers)
+            {
+                Console.WriteLine(item);
+            }
 
             // Create a foreach loop using the collection - numbers
             //In the scope of the foreach loop, print each number in numbers
 
-            foreach (int item in numbers)
-            {
-                Console.WriteLine("");
-                Console.WriteLine("Decrease:");
-            }
+            Console.WriteLine("");
+            Console.WriteLine("Decrease");
 
 
 

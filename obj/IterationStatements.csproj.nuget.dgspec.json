@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hwait\\Desktop\\IterationStatementsProject\\IterationStatements\\IterationStatements.csproj": {}
+    "C:\\Users\\hwait\\Desktop\\repos\\IterationStatementsProject\\IterationStatements\\IterationStatements.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hwait\\Desktop\\IterationStatementsProject\\IterationStatements\\IterationStatements.csproj": {
+    "C:\\Users\\hwait\\Desktop\\repos\\IterationStatementsProject\\IterationStatements\\IterationStatements.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hwait\\Desktop\\IterationStatementsProject\\IterationStatements\\IterationStatements.csproj",
+        "projectUniqueName": "C:\\Users\\hwait\\Desktop\\repos\\IterationStatementsProject\\IterationStatements\\IterationStatements.csproj",
         "projectName": "IterationStatements",
-        "projectPath": "C:\\Users\\hwait\\Desktop\\IterationStatementsProject\\IterationStatements\\IterationStatements.csproj",
+        "projectPath": "C:\\Users\\hwait\\Desktop\\repos\\IterationStatementsProject\\IterationStatements\\IterationStatements.csproj",
         "packagesPath": "C:\\Users\\hwait\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hwait\\Desktop\\IterationStatementsProject\\IterationStatements\\obj\\",
+        "outputPath": "C:\\Users\\hwait\\Desktop\\repos\\IterationStatementsProject\\IterationStatements\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hwait\\AppData\\Roaming\\NuGet\\NuGet.Config",
